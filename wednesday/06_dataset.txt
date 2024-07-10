@@ -1,0 +1,1 @@
+df = pd.read_csv("https://gist.githubusercontent.com/qwerjorsag/b5d8bf20b20a40ec83abc902693bd479/raw/ae2ddee7d9bb84a4d5b906c282e77b1a02acf822/manufacturing_defect_dataset.csv")
