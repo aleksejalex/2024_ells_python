@@ -7,8 +7,9 @@
 - J. Ruzejnikov [@Ruzejjur](https://github.com/Ruzejjur)
 - J. Saro [@jenasin](https://github.com/jenasin)
 - A. Gaj [@aleksejalex](https://github.com/aleksejalex)
+- M. Anker (Marvin.Anker@uni-hohenheim.de) - invited lecture on Presentation Networks and API Project, see [here](https://github.com/aleksejalex/2024_ells_python/tree/main/wednesday/intro_to_networks_and_API)
 
-## Supervisors
+## Supervisor
 - M. Pelikan [TBA](https://github.com/)
 
 
